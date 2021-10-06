@@ -1,7 +1,7 @@
+Thank you for visiting my GitHub!!
 - 👋 Hi, I’m @Mayuko19
 - 👀 I’m interested in Site Reliability Engineering.
 - 🌱 I’m currently learning Python, Data Structure and Algorithm, Cloud Technology.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me LinkedIn: www.linkedin.com/in/mayuko7a5132192
 
 <!---
